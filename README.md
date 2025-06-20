@@ -15,9 +15,22 @@
 --------------
 ## Power BI
 ### Revenue_Insights_Hospitality:- https://github.com/sahil1213-ux/Revenue_Insights_Hospitality
-### Insurance Analysis:- https://github.com/sahil1213-ux/Insurance-Data-Analysis
-### Ola Project Analysis:- https://github.com/sahil1213-ux/Ola-Project-Analysis
-### Store sales analysis:- https://github.com/sahil1213-ux/Sales-Analysis
+### Superstore-Sales-Dashboard-Powerbi:- https://github.com/sahil1213-ux/Superstore-Sales-Dashboard-Powerbi
+### HR-Dashboard-powerbi:- https://github.com/sahil1213-ux/HR-Dashboard-powerbi
+### Power_BI_Dashboard_Financial_Health:- https://github.com/sahil1213-ux/Power_BI_Dashboard_Financial_Health
+### Bank-Loan-Analysis--Power-Bi:- https://github.com/sahil1213-ux/Bank-Loan-Analysis--Power-Bi
+### Income-Statement-Dashboard:- https://github.com/sahil1213-ux/Income-Statement-Dashboard
+
+## Excel
+### Data-Wrangling-in-Excel-Project:- https://github.com/sahil1213-ux/Data-Wrangling-in-Excel-Project
+### HR-Analysis-DB-Excel:- https://github.com/sahil1213-ux/HR-Analysis-DB-Excel
+### Employee-Performance-Analysis-VBA-Excel:- https://github.com/sahil1213-ux/Employee-Performance-Analysis-VBA-Excel
+
+
+
+
+
+
 
 
 
