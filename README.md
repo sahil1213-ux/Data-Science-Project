@@ -7,22 +7,16 @@
 
 ### Python + SQL Project: https://github.com/sahil1213-ux/Python-SQL
 
-
 ### Python + SQL Power BI Project: https://github.com/sahil1213-ux/Python-SQL-Power-Bi
 
 --------------
-## Power BI
+## Dashboards
 ### Revenue_Insights_Hospitality:- https://github.com/sahil1213-ux/Revenue_Insights_Hospitality
+### ### Bank-Loan-Analysis--Power-Bi:- https://github.com/sahil1213-ux/Bank-Loan-Analysis--Power-Bi
 ### Power_BI_Dashboard_Financial_Health:- https://github.com/sahil1213-ux/Power_BI_Dashboard_Financial_Health
-### Bank-Loan-Analysis--Power-Bi:- https://github.com/sahil1213-ux/Bank-Loan-Analysis--Power-Bi
 ### Income-Statement-Dashboard:- https://github.com/sahil1213-ux/Income-Statement-Dashboard
-### Superstore-Sales-Dashboard-Powerbi:- https://github.com/sahil1213-ux/Superstore-Sales-Dashboard-Powerbi
-### HR-Dashboard-powerbi:- https://github.com/sahil1213-ux/HR-Dashboard-powerbi
-
-## Excel
-### Data-Wrangling-in-Excel-Project:- https://github.com/sahil1213-ux/Data-Wrangling-in-Excel-Project
 ### HR-Analysis-DB-Excel:- https://github.com/sahil1213-ux/HR-Analysis-DB-Excel
-### Employee-Performance-Analysis-VBA-Excel:- https://github.com/sahil1213-ux/Employee-Performance-Analysis-VBA-Excel
+### Superstore-Sales-Dashboard-Powerbi:- https://github.com/sahil1213-ux/Superstore-Sales-Dashboard-Powerbi
 
 ## Automation with Python
 ### Report_Generator_Tool:- https://github.com/sahil1213-ux/Report_Generator_tool
