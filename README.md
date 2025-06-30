@@ -10,8 +10,6 @@
 
 ### Python + SQL Power BI Project: https://github.com/sahil1213-ux/Python-SQL-Power-Bi
 
-### A/B Testing Project: https://github.com/sahil1213-ux/Statistics-Project-On-Hypothesis-Testing
-
 --------------
 ## Power BI
 ### Revenue_Insights_Hospitality:- https://github.com/sahil1213-ux/Revenue_Insights_Hospitality
