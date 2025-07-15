@@ -4,9 +4,6 @@
 
 ### SQL Projects: https://github.com/sahil1213-ux/SQL_Projects
 
-
-### Python + SQL Project: https://github.com/sahil1213-ux/Python-SQL
-
 ### Python + SQL Power BI Project: https://github.com/sahil1213-ux/Python-SQL-Power-Bi
 
 --------------
