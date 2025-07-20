@@ -4,7 +4,7 @@
 
 ### SQL Projects: https://github.com/sahil1213-ux/SQL_Projects
 
-### Python + SQL Power BI Project: https://github.com/sahil1213-ux/Python-SQL-Power-Bi
+### Python + SQL + Power BI Project: https://github.com/sahil1213-ux/Python-SQL-Power-Bi
 
 --------------
 ## Dashboards
