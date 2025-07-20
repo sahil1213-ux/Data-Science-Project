@@ -19,6 +19,9 @@
 ### Report_Generator_Tool:- https://github.com/sahil1213-ux/Report_Generator_tool
 ### Portfolio Optimizer:- https://github.com/sahil1213-ux/Portfolio_Optimizer
 
+## Automation With Python
+### Email Automation: https://github.com/sahil1213-ux/Email-Automation-GroqAPI
+
 
 ## 
 
